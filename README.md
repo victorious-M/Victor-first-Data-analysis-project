@@ -1,12 +1,10 @@
 Please note there are two projects here,  
 
-one is a comparison of food prices in South Africa and Nigeria 
-
-labelled za-vs-ng-prices.ipynb,this is an EDA better analysed and viewed on Kaggle:
+one is a comparison of food prices in South Africa and Nigeria  and the original avaition accidents for the food prices EDA it is better analysed and viewed on Kaggle:
 
 https://www.kaggle.com/code/victormunyaradzi/south-africa-and-nigerian-food-prices-comparison
 
-
+for the Aviation Accidents here you go:
 
 
 Dataset Overview: Analyzed aviation accident data since 1919, focusing on trends, causes, and fatalities across different countries.
